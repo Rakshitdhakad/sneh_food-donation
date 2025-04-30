@@ -161,4 +161,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Thanks to all contributors
-- Special thanks to my teammates(Abhishek,Tanishq and Tamanna)
+- Special thanks to my teammates(Vivek,Tanishq and Tamanna)
+
